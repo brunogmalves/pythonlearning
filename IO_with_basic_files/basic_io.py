@@ -57,4 +57,4 @@ with open("my_new_file.txt",mode='r') as f:
 with open("njirwiohriu.txt", mode='w') as f1:
     f1.write("BRUNO GM ALVES")
 
-
+#nested
